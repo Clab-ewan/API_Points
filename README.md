@@ -1,4 +1,4 @@
-# API Point
+# API_Points
 
 ## Programme de Points pour les vault sur Kiln
 Les fournisseurs de produit Defi font face à un problème toujours croissant de fidélisation des consommateurs de vault et autres yield optimizers. Les offres étant nombreuses et toutes plus rentables les unes que les autres, il est important, pour vouloir tirer son épingle du jeu, de réussir à garder ses clients et à en récupérer de nouveaux, c'est ce que vient satisfaire notre produit.
